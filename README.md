@@ -1,6 +1,3 @@
-## CleanAspire - .NET 9 Minimal API + Blazor WebAssembly PWA Template with Aspire Support 
-
-
 ### 🚀 Overview  
 
   
